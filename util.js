@@ -5,3 +5,4 @@ export const me = {
   age: 18
 }
 
+export let title = 'es6'
